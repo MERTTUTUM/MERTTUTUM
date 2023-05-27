@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="mertutum.gif" width="auto" height="auto">
 
 **MERTTUTUM/MERTTUTUM** is a ✨ _special_ ✨ 
 
