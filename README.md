@@ -4,7 +4,7 @@
 
 **MERTTUTUM/MERTTUTUM** is a ✨ _special_ ✨ 
 
-
+![](https://komarev.com/ghpvc/?username=MERTTUTUM&style=plastic)
 
 - 🔭 I’m currently working on : Python, T-SQL, Cloud Computing
 - 💬 Ask me about: Python and T-SQL
