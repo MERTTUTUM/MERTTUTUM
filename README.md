@@ -10,11 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=MERTTUTUM" alt="https://github.com/MERTTUTUM" />
 </p>
 
----
 
-![MERTTUTUM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MERTTUTUM&show_icons=true&theme=radical)
 
----
 <h2 align="center"> 🔭 Tools of Trade</h2>
                                                  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
