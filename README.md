@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋👨‍</h2> 
+<h2 align="center">Hello 👋👨‍</h2> 
 
 <img src="merttm.gif" width="auto" height="auto">
 
